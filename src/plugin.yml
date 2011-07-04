@@ -1,0 +1,7 @@
+name: RollTheDice
+main: rollthedice.RollTheDice
+version: 0.2
+commands:
+   roll:
+      description: Rolls the dice!
+      usage: /roll
